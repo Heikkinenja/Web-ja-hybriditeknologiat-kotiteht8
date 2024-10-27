@@ -6,7 +6,7 @@ import { getFirestore, collection,addDoc } from "firebase/firestore"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC7wVNd0nTlZ-LPO3VFDoDUXin0rO5JsJo",
+  apiKey: "apikey",
   authDomain: "shoppinglist-83441.firebaseapp.com",
   projectId: "shoppinglist-83441",
   storageBucket: "shoppinglist-83441.appspot.com",
